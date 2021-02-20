@@ -12,7 +12,7 @@ Syntax highlighted code block
 
 ## Word Clouds
 ## Frequency Table 
-![Image](C:\Users\78746\Desktop\1)
+![Image](C:\Users\78746\Desktop\1.png)
  
 
 - Bulleted
