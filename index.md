@@ -10,11 +10,12 @@ Firstly, we use dictionary in Python to count the frequencies in the 'final_toke
 
 
 ### 1.2 Word Clouds
+![Word cloud](https://user-images.githubusercontent.com/78474798/108610614-efe2af80-73ce-11eb-8ca0-90aaa5c8efe4.png)
 
 
 ### 1.3 Frequency Table 
+![Frequency Table](https://user-images.githubusercontent.com/78474798/108610622-0557d980-73cf-11eb-9b67-0274007e207e.png)
 
- 
 ## Results 
 ## Problems 
 
