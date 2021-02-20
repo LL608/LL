@@ -17,6 +17,11 @@ Firstly, we use dictionary in Python to count the frequencies in the 'final_toke
 ![Frequency Table](https://user-images.githubusercontent.com/78474798/108610622-0557d980-73cf-11eb-9b67-0274007e207e.png)
 
 ## Results 
+
+![fosun cloud1](https://user-images.githubusercontent.com/78474798/108610639-320bf100-73cf-11eb-8510-4159b0eefa90.png)
+
+![fosun frequency](https://user-images.githubusercontent.com/78474798/108610649-4354fd80-73cf-11eb-92dd-cc84d46c4115.png)
+
 ## Problems 
 
 
