@@ -12,7 +12,7 @@ Syntax highlighted code block
 
 ## Word Clouds
 ## Frequency Table 
-![Image](C:/Users/78746/Desktop/1.png)
+![1](https://user-images.githubusercontent.com/78474798/108610195-a2187800-73cb-11eb-89be-19484df184ac.png)
  
 
 - Bulleted
