@@ -1,15 +1,19 @@
 # Data Visulization 
 Followed by Data Reshaping and Preprocessing, we obtained a series of tokenized words. Due to the large amount of data set, it is hard for us to uderstand the underlying trends and patterns. Therefore, the data visulization becomes neccesary. As a part of data visulization, the frequency table and wordclouds are genenarated to tell the story behind the data.   
-# Generating Frequency Set 
+## Generating Frequency Set 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+
+
+
+## Word Clouds
+## Frequency Table 
+![Image](C:\Users\78746\Desktop\1)
+ 
 
 - Bulleted
 - List
@@ -19,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image]
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
