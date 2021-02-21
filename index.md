@@ -29,9 +29,7 @@ The frequency table shows the number of times a word occurring in Fosun tweets. 
 ## 2. Results 
 The world could picture and frequency table generating from the frequency of words in Fosun tweets are shown as below:
 
-![Figure 2021-02-21 081058](https://user-images.githubusercontent.com/78474798/108612591-03b90080-7425-11eb-81db-328f9d995a54.png)
-
-![WechatIMG20318](https://user-images.githubusercontent.com/78474798/108612602-2d722780-7425-11eb-970f-c69ec7d34bd9.png)
+![Screenshot 2021-02-21 at 09 24 59](https://user-images.githubusercontent.com/78474798/108612799-e2f1aa80-7426-11eb-889e-844d6d445c7d.png)
 
 ## 3. Problems 
 
