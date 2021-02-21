@@ -31,7 +31,7 @@ The world could picture and frequency table generating from the frequency of wor
 
 ![Figure 2021-02-21 081058](https://user-images.githubusercontent.com/78474798/108612591-03b90080-7425-11eb-81db-328f9d995a54.png)
 
-![fosun frequency](https://user-images.githubusercontent.com/78474798/108610649-4354fd80-73cf-11eb-92dd-cc84d46c4115.png)
+![WechatIMG20318](https://user-images.githubusercontent.com/78474798/108612602-2d722780-7425-11eb-970f-c69ec7d34bd9.png)
 
 ## 3. Problems 
 
